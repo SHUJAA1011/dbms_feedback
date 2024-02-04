@@ -52,3 +52,6 @@ A student feedback portal built using PHP, SQL and CSS.
 #### Get Started
 
 7. Go to `http://localhost/feedback/` in your browser and get started.
+
+
+link for the above:   https://shujaa1011.github.io/dbms_feedback/
